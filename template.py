@@ -17,7 +17,7 @@ list_of_files=[
     'src/utlis/__init__.py',
     'src/utlis/utlis.py',
     'src/logger/logging.py',
-    'src/exception/expection',
+    'src/exceptions/expection.py',
     'tests/unit/__init__.py',
     'tests/integration/__init__.py',
     'init_setup.sh',
@@ -26,7 +26,7 @@ list_of_files=[
     'setup.py',
     'setup.config',
     'pyproject.toml',
-    'tox.ini',
+    'tox.ini', # use for testing
     'experiment/experminents.ipynb' 
 ]
 
