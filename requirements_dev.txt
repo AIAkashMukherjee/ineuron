@@ -1,0 +1,19 @@
+pandas 
+numpy
+scikit-learn
+seaborn
+matplotlib
+flask
+mlflow
+dvc
+xgboost
+
+# dev requirements -
+
+pytest
+tox
+black
+flake8
+mypy
+
+# -e. # download local packages also
